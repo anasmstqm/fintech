@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# WealthFlow - Created by Anas Mustaqueem
+# Full-Stack Fintech Investment Platform
+# Developer: Anas Mustaqueem
+
+Sitemap: https://wealthflow.com/sitemap.xml
